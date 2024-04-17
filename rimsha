@@ -5,7 +5,7 @@
       "role": "roles/bigquery.jobUser",
       "members": [
         "user:rimshashakeel9959@gmail.com
-      ]
+      ]bad branch
     }
   ]
 }
