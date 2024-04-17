@@ -1,7 +1,7 @@
 {good branch
   "version": 3,
   "bindings": [
-    {
+    {bad branch
       "role": "roles/bigquery.jobUser",
       "members": [
         "user:rimshashakeel9959@gmail.com
